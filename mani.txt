@@ -1,3 +1,0 @@
-this is from D2
-second line from dev1
-this is from again from dev2
